@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kundan Singh</h1>
-<h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps Engineer</h3>
+<h3 align="center">🚀 Maern Full-Stack Developer | ☁️ Java FullStack Developer</h3>
 
 <p align="center">
-Building scalable web applications & cloud-native systems
+Building scalable web applications & cloud-native systems,AI baesd Project 
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IZQFJLZowL61yI5KzcN
 ## 👨‍💻 About Me
 
 - 🤝 Working on **Smart Workforce – AI Automation**
-- 💻 Full-Stack (MERN) Developer
-- ☁️ Cloud Computing, Docker, Kubernetes
+- 💻 Full-Stack (java) (MERN) Developer
+- ☁️ AWS, Docker
 - 🧠 Backend APIs & System Design
-- 🎯 Open for Software / Cloud Engineer roles
+- 🎯 Open for Software / Java FullStack
 
 ---
 
