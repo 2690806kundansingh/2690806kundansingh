@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kundan Singh</h1>
-<h3 align="center">🚀 Maern Full-Stack Developer | ☁️ Java FullStack Developer</h3>
+<h3 align="center">🚀 MERN Full-Stack Developer | ☁️ Java FullStack Developer</h3>
 
 <p align="center">
 Building scalable web applications & cloud-native systems,AI baesd Project 
