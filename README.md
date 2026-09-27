@@ -15,7 +15,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IZQFJLZowL61yI5KzcN
 ---
 
 ## 👨‍💻 About Me
-
+- working on AI-fitness-app
 - 🤝 Working on **Smart Workforce – AI Automation**
 - 💻 Full-Stack (java) (MERN) Developer
 - ☁️ AWS, Docker
